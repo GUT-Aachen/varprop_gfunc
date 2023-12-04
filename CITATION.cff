@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-7029-7303"
 title: "varprop_gfunc"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: https://doi.org/10.5281/zenodo.10209359
 date-released: 2023-11-27
 url: "https://github.com/GUT-Aachen/varprop_gfunc"
